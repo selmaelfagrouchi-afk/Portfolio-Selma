@@ -1,0 +1,94 @@
+---
+title: "Mémoire de Master"
+title-block-style: none
+---
+
+[← Projets](projets.qmd){.lien}
+
+::: {.entete}
+
+![](images/logo-snds.png){.logo fig-alt="Logo SNDS" width=150px}![](images/logo-meteo-france.jpg){.logo fig-alt="Logo Météo-France" width=84px}
+
+::: {.bloc}
+
+::: {.date}
+
+2026 – en cours · Mémoire de Master 2 Data Science en Santé
+
+:::
+
+:::
+
+:::
+
+# [Mémoire]{.memoire-gros}Analyse temporelle des hospitalisations pour tentatives de suicide en lien avec les conditions météorologiques
+
+::: {.discret}
+
+Données du SNDS et de Météo-France · France
+
+:::
+
+::: {.intro}
+
+Question : [dans quelle mesure les variations de la météo, en particulier de la température, sont-elles associées aux variations dans le temps des hospitalisations]{.surligne} pour tentative de suicide en France ?
+
+:::
+
+::: {.chiffres}
+
+::: {.chiffre}
+
+[2]{.nombre} sources de données croisées
+
+:::
+
+::: {.chiffre}
+
+[\~100]{.nombre} articles parcourus
+
+:::
+
+::: {.chiffre}
+
+[19]{.nombre} articles retenus
+
+:::
+
+:::
+
+## Pourquoi ce sujet
+
+Entre 2013 et 2022, près d'un million d'hospitalisations pour tentative de suicide ont été recensées en France. Une seule étude française relie température et suicide, et elle porte sur les décès. À ma connaissance, [aucune étude ne combine encore les données hospitalières du SNDS et celles de Météo-France]{.surligne}, dont les données publiques sont désormais gratuites.
+
+## Où j'en suis
+
+::: {.grille .competences}
+
+::: {.carte}
+
+### Revue de la littérature
+
+J'ai lu environ une centaine d'articles et retenu [19 études]{.surligne}. La majorité utilise des [séries temporelles]{.surligne}, la méthode que j'envisage aussi.
+
+:::
+
+::: {.carte}
+
+### Méthodes prévues
+
+Séries temporelles avec correction de la saisonnalité et des jours fériés, modèles [GLM, GAM et DLNM]{.surligne} pour tenir compte des effets différés de la météo, puis analyses par sous-groupes.
+
+:::
+
+::: {.carte}
+
+### Prochaine étape
+
+Relier les données du SNDS à celles des stations Météo-France, dans le temps et dans l'espace. C'est le principal défi méthodologique du projet.
+
+:::
+
+:::
+
+[SNDS]{.pastille}[Météo-France]{.pastille}[Séries temporelles]{.pastille}[Revue de littérature]{.pastille}

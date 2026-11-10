@@ -1,0 +1,177 @@
+---
+title: "Parcours"
+title-block-style: none
+---
+
+# Parcours
+
+## Expérience
+
+::: {.chronologie}
+
+::: {.etape}
+
+::: {.date}
+
+Mars – août 2026
+
+:::
+
+### Stage Data Scientist, Groupe AHNAC
+
+::: {.discret}
+
+Service transformation, Hôpital de Riaumont
+
+:::
+
+::: {.pastilles}
+
+[R]{.pastille}[SQL]{.pastille}[Machine learning]{.pastille}[R Shiny]{.pastille}[CRISP-DM]{.pastille}
+
+:::
+
+[Voir le projet →](stage-ahnac.qmd){.lien}
+
+:::
+
+::: {.etape}
+
+::: {.date}
+
+Avril – juin 2025
+
+:::
+
+### Stage qualité, EHPAD Les Ogiers
+
+::: {.pastilles}
+
+[Audit]{.pastille}[Évaluation HAS]{.pastille}[Formation des professionnels]{.pastille}
+
+:::
+
+<details>
+<summary>Plus de détails</summary>
+
+- Préparation à l'évaluation externe de la HAS : audit, formation des professionnels, mise à jour de protocoles
+
+</details>
+
+:::
+
+::: {.etape}
+
+::: {.date}
+
+Oct. – déc. 2024
+
+:::
+
+### Stage qualité, SMR pédiatrique Marc Sautelet
+
+::: {.pastilles}
+
+[Audit qualité]{.pastille}[Sécurité du patient]{.pastille}
+
+:::
+
+<details>
+<summary>Plus de détails</summary>
+
+- Semaine de la sécurité du patient, audit sur le port du bracelet d'identification
+
+</details>
+
+:::
+
+:::
+
+## Formation
+
+::: {.chronologie}
+
+::: {.etape}
+
+::: {.date}
+
+2025 – 2027
+
+:::
+
+### Master Data Science en Santé, ILIS Lille[Mention Bien au M1]{.pastille .important}
+
+<details>
+<summary>Principaux enseignements</summary>
+
+::: {.enseignements}
+
+#### Statistiques et données de santé
+
+**M1** : statistique inférentielle, modélisation statistique appliquée à la biologie-santé, méthodes d'analyse de données, estimation de la densité par méthode à noyau.\
+**M2** : statistique bayésienne, analyse de survie, séries chronologiques, données spatiales et fonctionnelles, méthodes numériques.
+
+#### Informatique et data science
+
+**M1** : algorithmique, système d'exploitation, optimisation, apprentissage automatique, fouille de motifs et graphes, outils de gestion de données, informatique médicale.\
+**M2** : apprentissage automatique avancé, deep learning, text mining et traitement du langage naturel, big data et dossiers patients informatisés, data mining à grande échelle, bioinformatique, conception d'interfaces homme-machine.
+
+#### Santé, épidémiologie et recherche
+
+**M1** : épidémiologie générale, santé publique et données de santé, génomique et épidémiologie génétique, pharmacologie, biologie moléculaire et systémique, formation à la recherche.\
+**M2** : données de santé, épidémiologie et recherche clinique, exposologie et exposome, médecine de précision, épistémologie.
+
+#### Projet, communication et anglais
+
+**M1** : démarche projet et données de santé, communication, organisation des entreprises du secteur biologie-santé, séminaires de santé numérique, anglais professionnel.\
+**M2** : communication stratégique, conduite du changement, modèles économiques du big data en santé, projet tutoré, anglais professionnel.
+
+:::
+
+</details>
+
+:::
+
+::: {.etape}
+
+::: {.date}
+
+2023 – 2025
+
+:::
+
+### LAS2 et L3 Santé Publique et Management des Organisations de Santé[Mention Bien]{.pastille .important}
+
+:::
+
+::: {.etape}
+
+::: {.date}
+
+2022 – 2023
+
+:::
+
+### PASS, Faculté de Médecine de Lille
+
+:::
+
+::: {.etape}
+
+::: {.date}
+
+2021 – 2022
+
+:::
+
+### Baccalauréat, section européenne anglais[Mention Très Bien]{.pastille .important}
+
+::: {.discret}
+
+Lycée Charles Baudelaire, Roubaix
+
+:::
+
+:::
+
+:::

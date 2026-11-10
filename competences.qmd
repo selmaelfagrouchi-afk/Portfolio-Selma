@@ -1,0 +1,84 @@
+---
+title: "Compétences"
+title-block-style: none
+---
+
+# Compétences
+
+::: {.grille .competences}
+
+::: {.carte}
+
+### Programmation
+
+[R]{.pastille}[SQL]{.pastille}[Python]{.pastille}
+
+:::
+
+::: {.carte}
+
+### Statistiques et machine learning
+
+[Tests statistiques]{.pastille}[Régression]{.pastille}[ACP]{.pastille}[XGBoost]{.pastille}[LightGBM]{.pastille}[Textométrie (IRaMuTeQ)]{.pastille}
+
+:::
+
+::: {.carte}
+
+### Visualisation et applications
+
+[Power BI]{.pastille}[Excel]{.pastille}[Shiny]{.pastille}[Dash]{.pastille}[ggplot2]{.pastille}[plotly]{.pastille}
+
+:::
+
+::: {.carte}
+
+### Données de santé
+
+[Hopital Manager]{.pastille}[SNDS]{.pastille}
+
+:::
+
+::: {.carte}
+
+### Langues
+
+[Anglais B2 (Cambridge)]{.pastille}[Allemand A2]{.pastille}
+
+:::
+
+:::
+
+## Certifications
+
+::: {.grille}
+
+::: {.carte .certif}
+
+![](images/logo-github.svg){fig-alt="Logo GitHub"}
+
+::: {.bloc}
+
+### Introduction à GitHub
+
+DataCamp
+
+:::
+
+:::
+
+::: {.carte .certif}
+
+![](images/logo-python.svg){fig-alt="Logo Python"}
+
+::: {.bloc}
+
+### Visualisation en Python
+
+DataCamp
+
+:::
+
+:::
+
+:::

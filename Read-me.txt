@@ -1,0 +1,46 @@
+PORTFOLIO DE SELMA EL FAGROUCHI : projet Quarto (R)
+
+1. CE QU'IL Y A DANS LE DOSSIER
+- Un fichier .qmd par page : index (accueil), projets, stage-ahnac, nutri-score,
+  jeune-intermittent, memoire, parcours, competences, contact.
+- images/ : toutes les images.   rapports/ : les PDF (rapports + ton CV).
+- styles.css : les couleurs et la mise en page (les couleurs sont en haut du fichier).
+- _quarto.yml : le menu du site et les réglages.
+- docs/ : le site DÉJÀ GÉNÉRÉ (c'est ce que GitHub affichera).
+
+2. A FAIRE AVANT DE PUBLIER
+- Dans contact.qmd : remplacer VOTRE-EMAIL et VOTRE-LIEN-LINKEDIN.
+- Mettre ton CV dans rapports/ sous le nom CV_Selma_El_Fagrouchi.pdf
+  (il contient ton téléphone et ton âge : à toi de voir).
+- Prévenir les camarades dont le nom apparaît dans les rapports de groupe.
+- Demander l'accord de l'AHNAC pour les captures du tableau de bord.
+
+3. MODIFIER LE SITE (dans RStudio)
+- Ouvrir portfolio-selma.Rproj, puis ouvrir un fichier .qmd.
+- Le texte s'écrit en Markdown : # Titre, ## Sous-titre, **gras**.
+- Une pastille jaune : [R]{.pastille}     Un mot surligné : [mot]{.surligne}
+- Une image : ![](images/mon-image.jpg){.photo}
+- Un lien : [texte](autre-page.qmd)
+- Une carte : ::: {.carte} ... :::
+- Cliquer sur "Render" (ou Build > Render Website). Le site est refait dans docs/.
+  Pour voir le résultat avant : dans le Terminal, taper  quarto preview
+
+4. METTRE EN LIGNE AVEC GITHUB PAGES
+a) Créer un compte sur github.com, puis un dépôt "portfolio" (Public).
+b) Envoyer TOUT le contenu de ce dossier dans le dépôt (bouton "Add file > Upload files",
+   ou avec Git). Le dossier docs/ et le fichier .nojekyll doivent y être.
+c) Settings > Pages > Source : "Deploy from a branch" > branche main, dossier /docs > Save.
+d) Après 1 à 2 minutes, le lien apparaît en haut de la page Pages.
+A chaque modification : relancer Render dans RStudio, puis renvoyer le dossier docs/ sur GitHub.
+
+5. AVEC TON PROPRE NOM DE DOMAINE
+- Créer à la racine du projet un fichier texte nommé CNAME contenant seulement ton domaine
+  (ex. : selmaelfagrouchi.fr). Quarto le copie dans docs/ au prochain Render.
+- Dans GitHub : Settings > Pages > Custom domain : écrire le domaine, puis Save.
+- Chez ton registrar (OVHcloud...), dans la zone DNS : 4 enregistrements A (nom @) vers
+  185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
+  et 1 enregistrement CNAME (nom www) vers ton-nom-github.github.io
+- Attendre jusqu'à 24 h, puis cocher "Enforce HTTPS" dans GitHub Pages.
+
+6. OPTION AVANCÉE : "quarto publish gh-pages" (dans le Terminal) génère et envoie le site tout seul,
+   mais demande que Git soit installé et relié à ton compte GitHub.

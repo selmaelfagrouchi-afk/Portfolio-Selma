@@ -1,0 +1,10 @@
+---
+title: "Contact"
+title-block-style: none
+---
+
+# Contact
+
+Je recherche un stage de Data Scientist en santé. Vous pouvez me contacter par e-mail ou sur LinkedIn.
+
+[Envoyer un e-mail](mailto:VOTRE-EMAIL){.bouton}[LinkedIn](https://www.linkedin.com/in/VOTRE-LIEN-LINKEDIN){.bouton .contour target="_blank"}[Télécharger mon CV](rapports/CV_Selma_El_Fagrouchi.pdf){.bouton .contour download=""}

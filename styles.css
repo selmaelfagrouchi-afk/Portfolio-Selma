@@ -1,0 +1,83 @@
+/* ===== Portfolio de Selma El Fagrouchi : styles (couleurs en haut du fichier) ===== */
+:root{--ac:#f3cd4f;--ac-d:#8a6a00;--soft:#fffbea;--bd:#efe7cc;--tx:#111;--mu:#555}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--tx);background:#fff;font-size:16px;line-height:1.6}
+h1,h2,h3,h4,.nombre{font-family:Georgia,"Times New Roman",serif;font-weight:400}
+a{color:var(--ac-d)}a:hover{color:#6b5200}
+/* barre de navigation */
+.navbar{background:#fff!important;border-bottom:1px solid var(--bd)}
+.navbar .navbar-title,.navbar .navbar-brand{color:#111!important;font-family:Georgia,serif;font-size:16px}
+.navbar .nav-link{color:var(--mu)!important;font-size:14px}
+.navbar .nav-link:hover,.navbar .nav-link.active{color:var(--ac-d)!important}
+.nav-footer{border-top:1px solid var(--bd)!important;font-size:13px;color:var(--mu)}
+/* page */
+#quarto-content{max-width:900px;margin:0 auto;padding:36px 24px 80px}
+#title-block-header{display:none}
+.navbar-brand-container{margin:0!important;margin-right:auto!important}
+.entete-accueil p,.date p{margin:0}
+h1{font-size:2.1rem;line-height:1.2;margin:0 0 8px}
+h2{font-size:1.45rem;margin:38px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--bd)}
+h2::before{content:"✦ ";color:#e3b93a;font-size:.8em}
+h3{font-size:1.15rem;margin:0 0 4px}
+figure{margin:14px 0}figcaption{font-size:13px;color:var(--mu);margin-top:6px}
+img.photo{width:100%;height:auto;border-radius:12px;border:1px solid var(--bd);display:block}
+.discret{color:var(--mu);font-size:14px}
+.date{display:block;font-size:13px;color:var(--ac-d)}
+.surligne{background:linear-gradient(transparent 55%,#fbe9a6 55%)}
+.intro{font:1.2rem/1.5 Georgia,serif;margin:10px 0 16px}
+.grand-texte{font:1.35rem/1.4 Georgia,serif;margin:6px 0 18px}
+/* pastilles de compétences */
+.pastille{display:inline-block;font-size:12.5px;font-weight:600;background:#f8dc7c;color:#3b2f00;border:1px solid #f1cc55;border-radius:99px;padding:3px 12px;margin:2px 4px 2px 0;line-height:1.5}
+.pastille.important{background:#f5cf55;border-color:#eec23f;margin-left:8px}
+.pastilles{margin:6px 0 4px}
+/* boutons et liens */
+a.bouton{display:inline-block;background:#f8dc7c;color:#3b2f00;border:1px solid #f1cc55;padding:9px 18px;border-radius:8px;font-size:14px;font-weight:500;text-decoration:none;margin:0 8px 8px 0}
+a.bouton:hover{background:#f5cf55;color:#3b2f00}
+a.bouton.contour{background:#fff;color:var(--ac-d);border-color:#e3b93a}
+a.lien{font-size:14px;text-decoration:none}
+.boutons{margin:18px 0 6px}
+/* en-tête de l'accueil */
+.entete-accueil{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.entete-accueil figure{margin:0;flex:none}.entete-accueil h1{margin:0}
+.logo-univ{height:132px;width:auto}
+@media(max-width:600px){.logo-univ{height:84px}.entete-accueil{gap:12px}}
+.recherche{border-left:3px solid var(--ac);background:var(--soft);padding:14px 18px;border-radius:0 10px 10px 0;margin:18px 0}
+.recherche ul{padding-left:18px;font-size:15px;margin:8px 0}.recherche p{margin:10px 0 0;font-size:15px}
+.titre-recherche{display:block;font:1.15rem Georgia,serif}
+/* cartes */
+.grille{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin-top:16px}
+.carte{position:relative;background:#fff;border:1px solid var(--bd);border-radius:12px;padding:16px}
+.carte:hover{border-color:var(--ac)}
+.carte.grande{padding:22px;margin-top:12px}.carte.grande h3{font-size:1.4rem}
+.carte p{margin:6px 0;color:var(--mu);font-size:15px}
+.carte .lien-carte::after{content:"";position:absolute;inset:0}
+.memoire-gros{display:block;font-size:2.1rem;color:var(--ac-d);line-height:1.2;margin-bottom:2px}
+.logos-ligne{display:flex;gap:14px;align-items:center;justify-content:center;padding:14px}
+.logos-ligne figure{margin:0}.logos-ligne img{height:50px;width:auto;border-radius:6px}
+/* en-tête des pages projets */
+.entete{display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-bottom:6px}
+.entete figure{margin:0}.entete img{max-height:130px;max-width:170px;width:auto;height:auto}
+.entete h1{font-size:1.9rem;margin:2px 0}
+/* chiffres clés */
+.chiffres{display:flex;gap:30px;flex-wrap:wrap;margin:20px 0}
+.chiffre{font-size:13px;color:var(--mu)}.chiffre p{margin:0}
+.nombre{display:block;font-size:1.7rem;color:var(--ac-d)}
+/* cartes de compétences */
+.competences .carte{background:var(--soft);border-color:transparent}
+.logo-hm{height:30px;width:auto;display:block;margin-bottom:8px}
+.cercle{max-width:640px;margin:12px auto}.cercle img{width:100%;height:auto}
+.paquets{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px}
+.paquet{border:1px solid var(--bd);border-radius:10px;padding:10px 12px;font-size:13px;color:var(--mu)}.paquet p{margin:0}
+.paquet code{display:block;color:var(--ac-d);font-size:14px;font-weight:600;background:none;padding:0;margin-bottom:2px}
+.deux p{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin:12px 0}
+.deux img{height:340px;width:auto;max-width:46%;object-fit:contain;border-radius:14px;border:1px solid var(--bd)}
+.galerie{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}.galerie figure{margin:0}
+/* dépliants */
+details{margin-top:10px;font-size:15px}summary{cursor:pointer;color:var(--ac-d);font-size:14px}
+/* parcours */
+.chronologie{border-left:2px solid var(--bd);margin:14px 0 0 6px;padding-left:20px}
+.etape{position:relative;margin-bottom:22px}
+.etape::before{content:"";position:absolute;left:-27px;top:8px;width:10px;height:10px;border-radius:50%;background:var(--ac)}
+.etape h3{margin:0}
+.enseignements h4{margin:14px 0 2px;font-size:14px;color:var(--ac-d);font-weight:600;font-family:system-ui,sans-serif}
+.enseignements p{margin:0;color:var(--mu);font-size:14px}
+.certif{display:flex;align-items:center;gap:14px}.certif figure{margin:0}.certif img{width:44px;height:44px}.certif p{margin:2px 0 0}

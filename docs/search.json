@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html#expérience-professionnelle",
+    "href": "index.html#expérience-professionnelle",
+    "title": "Accueil",
+    "section": "Expérience professionnelle",
+    "text": "Expérience professionnelle\n\nMars – août 2026 · 5 mois\n\nStage Data Scientist · Groupe hospitalier AHNAC\nPrédiction des temps d’attente aux urgences de 3 établissements, avec visualisation dans un tableau de bord R Shiny et une application R Shiny Mobile.\nR SQL Machine learning R Shiny CRISP-DM\n\nVoir le détail →"
+  },
+  {
+    "objectID": "index.html#projets-étudiants",
+    "href": "index.html#projets-étudiants",
+    "title": "Accueil",
+    "section": "Projets étudiants",
+    "text": "Projets étudiants\n\n2026 – en cours · Mémoire de Master\n\nMémoireanalyse temporelle des hospitalisations pour tentatives de suicide en lien avec les conditions météorologiques\nMémoire de Master 2, à partir des données du SNDS et de Météo-France.\nSNDS Météo-France Séries temporelles\n\n \n\nVoir le détail →\n\n\n\n\n2026 · Projet de groupe\n\nAnalyse du Nutri-Score et des nutriments des produits alimentaires en France\nProjet de groupe (5 étudiants) : analyse des nutriments à partir d’Open Food Facts et tableau de bord interactif.\nPython Dash Plotly Régression logistique Nettoyage de données\n\nVoir le détail →\n\n\n\n2024 – 2025 · Projet de groupe\n\nLe jeûne intermittent : témoignages sur les réseaux sociaux et littérature scientifique\nProjet de groupe (4 étudiants) : analyse textuelle de 56 témoignages avec IRaMuTeQ.\nIRaMuTeQ Analyse textuelle Collecte de données\n\nVoir le détail →"
+  },
+  {
+    "objectID": "jeune-intermittent.html#ce-que-nous-avons-fait",
+    "href": "jeune-intermittent.html#ce-que-nous-avons-fait",
+    "title": "Jeûne intermittent",
+    "section": "Ce que nous avons fait",
+    "text": "Ce que nous avons fait\n\n\nCollecter les témoignages\nNous avons rassemblé 56 témoignages dans un Google Sheet, après un test sur 17. Des critères d’inclusion et d’exclusion ont servi à choisir des témoignages comparables (pratique depuis plus de 3 mois, récit à la première personne…).\n\n\nPréparer les textes\nNettoyage des textes : fautes, caractères parasites, harmonisation des mots (« kilo » et « kg » par exemple), pour que le logiciel les lise correctement.\n\n\nAnalyser avec IRaMuTeQ\nNuage de mots, classification hiérarchique en 4 classes, graphe de similitude et analyse factorielle des correspondances, avec la durée de pratique en trois tranches.\n\n\nComparer à la littérature\nNous avons confronté les résultats aux études scientifiques sur la perte de poids, le métabolisme et les risques du jeûne."
+  },
+  {
+    "objectID": "jeune-intermittent.html#ce-que-nous-avons-observé",
+    "href": "jeune-intermittent.html#ce-que-nous-avons-observé",
+    "title": "Jeûne intermittent",
+    "section": "Ce que nous avons observé",
+    "text": "Ce que nous avons observé\nLes témoignages parlent surtout de perte de poids, de durée de pratique et de ressenti, ce qui rejoint la littérature. Les pratiques courtes (3 à 6 mois) mettent en avant des résultats visibles. Les pratiques longues (plus de 12 mois) parlent plutôt d’écoute de soi et de rapport à la nourriture. Notre conclusion : le jeûne intermittent n’est ni une solution miracle, ni dangereux en soi, il doit être adapté à chaque personne."
+  },
+  {
+    "objectID": "jeune-intermittent.html#les-analyses",
+    "href": "jeune-intermittent.html#les-analyses",
+    "title": "Jeûne intermittent",
+    "section": "Les analyses",
+    "text": "Les analyses\n\n\n\n\nClassification en 4 classes\n\n\n\n\n\nGraphe de similitude\n\n\n\n\n\nAnalyse factorielle des correspondances\n\n\n\n\nTélécharger le rapport (PDF)"
+  },
+  {
+    "objectID": "parcours.html#expérience",
+    "href": "parcours.html#expérience",
+    "title": "Parcours",
+    "section": "Expérience",
+    "text": "Expérience\n\n\n\nMars – août 2026\n\n\nStage Data Scientist, Groupe AHNAC\n\nService transformation, Hôpital de Riaumont\n\n\nRSQLMachine learningR ShinyCRISP-DM\n\nVoir le projet →\n\n\n\n\nAvril – juin 2025\n\n\nStage qualité, EHPAD Les Ogiers\n\nAuditÉvaluation HASFormation des professionnels\n\n\n\nPlus de détails\n\n\nPréparation à l’évaluation externe de la HAS : audit, formation des professionnels, mise à jour de protocoles\n\n\n\n\n\n\nOct. – déc. 2024\n\n\nStage qualité, SMR pédiatrique Marc Sautelet\n\nAudit qualitéSécurité du patient\n\n\n\nPlus de détails\n\n\nSemaine de la sécurité du patient, audit sur le port du bracelet d’identification"
+  },
+  {
+    "objectID": "parcours.html#formation",
+    "href": "parcours.html#formation",
+    "title": "Parcours",
+    "section": "Formation",
+    "text": "Formation\n\n\n\n2025 – 2027\n\n\nMaster Data Science en Santé, ILIS LilleMention Bien au M1\n\n\nPrincipaux enseignements\n\n\n\nStatistiques et données de santé\nM1 : statistique inférentielle, modélisation statistique appliquée à la biologie-santé, méthodes d’analyse de données, estimation de la densité par méthode à noyau.\nM2 : statistique bayésienne, analyse de survie, séries chronologiques, données spatiales et fonctionnelles, méthodes numériques.\n\n\nInformatique et data science\nM1 : algorithmique, système d’exploitation, optimisation, apprentissage automatique, fouille de motifs et graphes, outils de gestion de données, informatique médicale.\nM2 : apprentissage automatique avancé, deep learning, text mining et traitement du langage naturel, big data et dossiers patients informatisés, data mining à grande échelle, bioinformatique, conception d’interfaces homme-machine.\n\n\nSanté, épidémiologie et recherche\nM1 : épidémiologie générale, santé publique et données de santé, génomique et épidémiologie génétique, pharmacologie, biologie moléculaire et systémique, formation à la recherche.\nM2 : données de santé, épidémiologie et recherche clinique, exposologie et exposome, médecine de précision, épistémologie.\n\n\nProjet, communication et anglais\nM1 : démarche projet et données de santé, communication, organisation des entreprises du secteur biologie-santé, séminaires de santé numérique, anglais professionnel.\nM2 : communication stratégique, conduite du changement, modèles économiques du big data en santé, projet tutoré, anglais professionnel.\n\n\n\n\n\n\n\n2023 – 2025\n\n\nLAS2 et L3 Santé Publique et Management des Organisations de SantéMention Bien\n\n\n\n\n2022 – 2023\n\n\nPASS, Faculté de Médecine de Lille\n\n\n\n\n2021 – 2022\n\n\nBaccalauréat, section européenne anglaisMention Très Bien\n\nLycée Charles Baudelaire, Roubaix"
+  },
+  {
+    "objectID": "memoire.html#pourquoi-ce-sujet",
+    "href": "memoire.html#pourquoi-ce-sujet",
+    "title": "Mémoire de Master",
+    "section": "Pourquoi ce sujet",
+    "text": "Pourquoi ce sujet\nEntre 2013 et 2022, près d’un million d’hospitalisations pour tentative de suicide ont été recensées en France. Une seule étude française relie température et suicide, et elle porte sur les décès. À ma connaissance, aucune étude ne combine encore les données hospitalières du SNDS et celles de Météo-France, dont les données publiques sont désormais gratuites."
+  },
+  {
+    "objectID": "memoire.html#où-jen-suis",
+    "href": "memoire.html#où-jen-suis",
+    "title": "Mémoire de Master",
+    "section": "Où j’en suis",
+    "text": "Où j’en suis\n\n\nRevue de la littérature\nJ’ai lu environ une centaine d’articles et retenu 19 études. La majorité utilise des séries temporelles, la méthode que j’envisage aussi.\n\n\nMéthodes prévues\nSéries temporelles avec correction de la saisonnalité et des jours fériés, modèles GLM, GAM et DLNM pour tenir compte des effets différés de la météo, puis analyses par sous-groupes.\n\n\nProchaine étape\nRelier les données du SNDS à celles des stations Météo-France, dans le temps et dans l’espace. C’est le principal défi méthodologique du projet.\n\n\nSNDSMétéo-FranceSéries temporellesRevue de littérature"
+  },
+  {
+    "objectID": "competences.html#certifications",
+    "href": "competences.html#certifications",
+    "title": "Compétences",
+    "section": "Certifications",
+    "text": "Certifications\n\n\n\n\nIntroduction à GitHub\nDataCamp\n\n\n\n\n\nVisualisation en Python\nDataCamp"
+  },
+  {
+    "objectID": "stage-ahnac.html#un-projet-mené-de-a-à-z",
+    "href": "stage-ahnac.html#un-projet-mené-de-a-à-z",
+    "title": "Stage AHNAC",
+    "section": "Un projet mené de A à Z",
+    "text": "Un projet mené de A à Z\nJ’ai réalisé tout le projet, de l’extraction des données jusqu’au déploiement, en suivant la méthode CRISP-DM."
+  },
+  {
+    "objectID": "stage-ahnac.html#ce-que-jai-appris",
+    "href": "stage-ahnac.html#ce-que-jai-appris",
+    "title": "Stage AHNAC",
+    "section": "Ce que j’ai appris",
+    "text": "Ce que j’ai appris\n\n\n\n\nDonnées de santé\nJ’ai extrait les données du logiciel Hopital Manager avec SQL depuis R, en retrouvant les bonnes tables parmi environ 1 300. J’ai ensuite nettoyé plus de 4 millions de mouvements de patients pour calculer les temps d’attente.\n\n\n\nModélisation\nJ’ai comparé 7 modèles, des plus simples (moyennes, régressions) aux plus avancés (XGBoost et LightGBM). J’ai appris à choisir les variables utiles, à régler les modèles et à les évaluer de façon fiable, sur des données plus récentes que celles de l’entraînement.\n\n\nDéveloppement R Shiny\nJ’ai créé un tableau de bord R Shiny pour les soignants et un prototype d’application mobile pour les patients.\n\n\nSécurité et RGPD\nLes soignants doivent se connecter, avec des droits différents selon leur rôle (administrateur, cadre ou soignant). L’écran affiché en salle d’attente ne montre aucun nom de patient.\n\n\nDéploiement\nLes calculs se lancent automatiquement toutes les 10 minutes. J’ai préparé l’installation sur un serveur interne et rédigé la documentation pour le service informatique.\n\n\nTravail avec le terrain\nJ’ai échangé avec les cadres des urgences des 3 hôpitaux et avec le service informatique, pour vérifier les données et comprendre le fonctionnement des urgences."
+  },
+  {
+    "objectID": "stage-ahnac.html#packages-r-utilisés",
+    "href": "stage-ahnac.html#packages-r-utilisés",
+    "title": "Stage AHNAC",
+    "section": "Packages R utilisés",
+    "text": "Packages R utilisés\n\n\nshinydashboard tableau de bord\n\n\nshinymanager authentification des professionnels, gestion des rôles\n\n\nshinyMobile application mobile pour les patients\n\n\ndata.table jointures non équi, indicateurs de flux\n\n\nxgboost modèle de gradient boosting\n\n\nlightgbm modèle de gradient boosting\n\n\nggplot2 graphiques estimé contre réel\n\n\nRODBC connexion à la base Hopital Manager"
+  },
+  {
+    "objectID": "stage-ahnac.html#lapplication-mobile-pour-les-patients",
+    "href": "stage-ahnac.html#lapplication-mobile-pour-les-patients",
+    "title": "Stage AHNAC",
+    "section": "L’application mobile pour les patients",
+    "text": "L’application mobile pour les patients\n\n\n\n\nPrototype accessible par QR code : chaque patient ne voit que sa propre estimation."
+  },
+  {
+    "objectID": "nutri-score.html#ce-que-nous-avons-fait",
+    "href": "nutri-score.html#ce-que-nous-avons-fait",
+    "title": "Analyse du Nutri-Score",
+    "section": "Ce que nous avons fait",
+    "text": "Ce que nous avons fait\n\n\nPréparer les données\nLa base d’origine pesait environ 12 Go. Nous l’avons nettoyée sur Google Colab : valeurs manquantes, taux de nutriments impossibles (plus de 100 g pour 100 g) et séparation en plusieurs fichiers plus légers.\n\n\nCréer nos propres catégories\nLa base contenait environ 200 catégories très différentes, en français et en anglais. Nous avons écrit un dictionnaire de mots-clés et l’avons amélioré en 8 tours, pour que les produits soient répartis dans des familles claires (boissons, produits laitiers, féculents…).\n\n\nConstruire un tableau de bord\nTrois pages : l’analyse du Nutri-Score par catégorie, l’analyse des nutriments (sucre, graisses, sel, fibres, protéines) et un modèle de prédiction du Nutri-Score.\n\n\nPrédire le Nutri-Score\nEnviron 60 % des produits n’ont pas de Nutri-Score. Nous avons entraîné une régression logistique qui l’estime à partir des valeurs nutritionnelles saisies par l’utilisateur.\n\n\nMettre l’outil en ligne\nNous avons déployé l’application sur Render et partagé le code sur GitHub, avec des instructions pour refaire les analyses."
+  },
+  {
+    "objectID": "nutri-score.html#ce-que-nous-avons-observé",
+    "href": "nutri-score.html#ce-que-nous-avons-observé",
+    "title": "Analyse du Nutri-Score",
+    "section": "Ce que nous avons observé",
+    "text": "Ce que nous avons observé\nLe sucre, le sel et les graisses saturées expliquent une grande partie des mauvais Nutri-Scores. À l’inverse, les produits peu transformés (fruits et légumes, féculents, produits végétaux) sont les mieux notés. Le Nutri-Score est surtout utile pour comparer des produits d’une même catégorie."
+  },
+  {
+    "objectID": "nutri-score.html#outils-utilisés",
+    "href": "nutri-score.html#outils-utilisés",
+    "title": "Analyse du Nutri-Score",
+    "section": "Outils utilisés",
+    "text": "Outils utilisés\nPythonpandasnumpyDashPlotlyscikit-learnjoblibGoogle ColabGitHubRenderR (exploration)\n\nTélécharger le rapport (PDF)"
+  }
+]

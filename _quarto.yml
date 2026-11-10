@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - rapports/*
+
+website:
+  title: "Selma El Fagrouchi"
+  description: "Portfolio de Selma El Fagrouchi, étudiante en M2 Data Science en Santé (Université de Lille, ILIS). Recherche un stage en data science dans le domaine de la santé."
+  navbar:
+    background: white
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: projets.qmd
+        text: Projets
+      - href: parcours.qmd
+        text: Parcours
+      - href: competences.qmd
+        text: Compétences
+      - href: contact.qmd
+        text: Contact
+  page-footer: "Selma El Fagrouchi · Portfolio"
+
+format:
+  html:
+    lang: fr
+    theme: default
+    css: styles.css
+    toc: false
+    page-layout: custom
+    anchor-sections: false
+    title-block-style: none
+    smooth-scroll: true
