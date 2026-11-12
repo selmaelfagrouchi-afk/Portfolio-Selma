@@ -18,13 +18,13 @@ Université de Lille · ILIS
 :::
 
 ::: recherche
-[Je recherche un stage en data science, dans le domaine de la santé]{.titre-recherche}
+[Je recherche un stage en data science / biostatistiques / recherche, dans le domaine de la santé]{.titre-recherche}
 
 - Stage rémunéré de 105 jours travaillés (environ 5 mois, sans compter les semaines de cours)
 - Début possible à partir de novembre 2026, et au plus tard le 19 mars 2027
 - Stage alterné avec mes cours : 1 à 2 semaines de cours par mois jusqu'en juin, puis disponible à temps plein à partir de juin
 
-**Exemple :** si je commence le 1er janvier 2027, je termine le [21 juillet 2027]{.surligne}. [(105 jours = 100 jours travaillés + 5 jours de marge pour les jours fériés, d'après mon calendrier de cours.)]{.discret}
+**Exemple :** si je commence le 1er janvier 2027, je termine le [21 juillet 2027]{.surligne}. [(105 jours = 100 jours travaillés + 5 jours de marge pour les jours fériés.)]{.discret}
 
 <details>
 <summary>Voir mon calendrier de cours</summary>
@@ -34,7 +34,7 @@ Université de Lille · ILIS
 </details>
 :::
 
-[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Power BI]{.pastille} [Statistiques]{.pastille} [Hopital Manager]{.pastille}
+[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Statistiques]{.pastille} [Power BI]{.pastille} [Excel]{.pastille} [R Shiny]{.pastille} [Git / GitHub]{.pastille} [Machine learning]{.pastille} [Tests statistiques]{.pastille} [Régression]{.pastille} [ACP]{.pastille} [Anova]{.pastille} [Séries temporelles]{.pastille} [Arbres de décision]{.pastille} [XGBoost]{.pastille} [LightGBM]{.pastille} [Web scraping]{.pastille} [Hopital Manager]{.pastille} [SNDS]{.pastille} [CRISP-DM]{.pastille} [Analyse textuelle]{.pastille}
 
 [Voir mes projets](projets.qmd){.bouton} [Télécharger mon CV](rapports/CV_Selma_El_Fagrouchi.pdf){.bouton .contour download=""} [Me contacter](contact.qmd){.bouton .contour}
 
