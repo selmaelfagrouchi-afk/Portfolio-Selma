@@ -1,208 +1,104 @@
 ---
-title: "Stage AHNAC"
+title: "Accueil"
+pagetitle: "Portfolio de Selma El Fagrouchi"
 title-block-style: none
 ---
 
-[← Projets](projets.qmd){.lien}
+::: entete-accueil
+::: bloc-titre
+# Portfolio de Selma El Fagrouchi
 
-::: {.entete}
-
-![](images/logo-du-groupe-ahnac.jpg){.logo fig-alt="Logo du Groupe AHNAC"}
-
-::: {.bloc}
-
-::: {.date}
-
-Mars – août 2026 · 5 mois
-
+::: grand-texte
+Étudiante en 2^e^ année de Master Data Science en Santé\
+Université de Lille · ILIS
+:::
 :::
 
-# Stage Data Scientist · Groupe hospitalier AHNAC
-
-::: {.discret}
-
-Service transformation, Hôpital de Riaumont
-
+![](images/ufr3s-ilis-universite-de-lille.png){.logo-univ fig-alt="UFR3S ILIS, Université de Lille"}
 :::
 
+::: recherche
+[Je recherche un stage en data science / biostatistiques / recherche, dans le domaine de la santé]{.titre-recherche}
+
+- Stage rémunéré de 105 jours travaillés (environ 5 mois, sans compter les semaines de cours)
+- Début possible à partir de novembre 2026, et au plus tard le 19 mars 2027
+- Stage alterné avec mes cours : 1 à 2 semaines de cours par mois jusqu'en juin, puis disponible à temps plein à partir de juin
+
+**Exemple :** si je commence le 1er janvier 2027, je termine le [21 juillet 2027]{.surligne}. [(105 jours = 100 jours travaillés + 5 jours de marge pour les jours fériés.)]{.discret}
+
+<details>
+<summary>Voir mon calendrier de cours</summary>
+
+![](images/calendrier-de-disponibilite-de-novembre-2026-.jpg){.photo fig-alt="Calendrier de disponibilité de novembre 2026 à août 2027"}
+
+</details>
 :::
 
-:::
+[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Statistiques]{.pastille} [Power BI]{.pastille} [Excel]{.pastille} [R Shiny]{.pastille} [Git / GitHub]{.pastille} [Machine learning]{.pastille} [Tests statistiques]{.pastille} [Régression]{.pastille} [ACP]{.pastille} [Anova]{.pastille} [Séries temporelles]{.pastille} [Arbres de décision]{.pastille} [XGBoost]{.pastille} [LightGBM]{.pastille} [Web scraping]{.pastille} [Hopital Manager]{.pastille} [SNDS]{.pastille} [CRISP-DM]{.pastille} [Analyse textuelle]{.pastille}
 
-::: {.intro}
+[Voir mes projets](projets.qmd){.bouton} [Télécharger mon CV](rapports/CV_Selma_El_Fagrouchi.pdf){.bouton .contour download=""} [Me contacter](contact.qmd){.bouton .contour}
 
-Prédiction des temps d'attente aux urgences de [3 établissements]{.surligne}, avec visualisation dans un [tableau de bord R Shiny]{.surligne} et une [application R Shiny Mobile]{.surligne}.
+## Expérience professionnelle
 
-:::
+::: {.carte .grande}
+[Mars – août 2026 · 5 mois]{.date}
+
+### Stage Data Scientist · Groupe hospitalier AHNAC
+
+Prédiction des temps d'attente aux urgences de 3 établissements, avec visualisation dans un tableau de bord R Shiny et une application R Shiny Mobile.
+
+[R]{.pastille} [SQL]{.pastille} [Machine learning]{.pastille} [R Shiny]{.pastille} [CRISP-DM]{.pastille}
 
 ![](images/ecran-du-tableau-de-bord-affiche-en-salle-d-a.jpg){.photo fig-alt="Écran du tableau de bord affiché en salle d'attente"}
 
-::: {.chiffres}
-
-::: {.chiffre}
-
-[3]{.nombre} hôpitaux
-
+[Voir le détail →](stage-ahnac.qmd){.lien .lien-carte}
 :::
 
-::: {.chiffre}
+## Projets étudiants
 
-[200 000]{.nombre} séjours analysés
+::: {.carte .grande}
+[2026 – en cours · Mémoire de Master]{.date}
 
+### [Mémoire]{.memoire-gros}analyse temporelle des hospitalisations pour tentatives de suicide en lien avec les conditions météorologiques
+
+Mémoire de Master 2, à partir des données du SNDS et de Météo-France.
+
+[SNDS]{.pastille} [Météo-France]{.pastille} [Séries temporelles]{.pastille}
+
+::: logos-ligne
+![](images/logo-snds.png){fig-alt="Logo SNDS"}
+![](images/logo-meteo-france.jpg){fig-alt="Logo Météo-France"}
 :::
 
-::: {.chiffre}
-
-[7]{.nombre} modèles comparés
-
+[Voir le détail →](memoire.qmd){.lien .lien-carte}
 :::
 
-:::
-
-## Un projet mené de A à Z
-
-J'ai réalisé [tout le projet, de l'extraction des données jusqu'au déploiement]{.surligne}, en suivant la méthode [CRISP-DM]{.surligne}.
-
-::: {.cercle}
-
-![](images/crisp-dm.svg){fig-alt="Les six étapes de la méthode CRISP-DM"}
-
-:::
-
-## Ce que j'ai appris
-
-::: {.grille .competences}
-
+::: grille
 ::: {.carte}
+[2026 · Projet de groupe]{.date}
 
-![](images/logo-hopital-manager.png){.logo-hm fig-alt="Logo Hopital Manager"}
+### Analyse du Nutri-Score et des nutriments des produits alimentaires en France
 
-### Données de santé
+Projet de groupe (5 étudiants) : analyse des nutriments à partir d'Open Food Facts et tableau de bord interactif.
 
-J'ai extrait les données du logiciel Hopital Manager avec [SQL depuis R]{.surligne}, en retrouvant les bonnes tables parmi environ 1 300. J'ai ensuite nettoyé [plus de 4 millions de mouvements de patients]{.surligne} pour calculer les temps d'attente.
+[Python]{.pastille} [Dash]{.pastille} [Plotly]{.pastille} [Régression logistique]{.pastille} [Nettoyage de données]{.pastille}
 
+![](images/tableau-de-bord-nutri-score.jpg){.photo fig-alt="Tableau de bord Nutri-Score"}
+
+[Voir le détail →](nutri-score.qmd){.lien .lien-carte}
 :::
 
 ::: {.carte}
+[2024 – 2025 · Projet de groupe]{.date}
 
-### Modélisation
+### Le jeûne intermittent : témoignages sur les réseaux sociaux et littérature scientifique
 
-J'ai comparé [7 modèles]{.surligne}, des plus simples (moyennes, régressions) aux plus avancés ([XGBoost et LightGBM]{.surligne}). J'ai appris à choisir les variables utiles, à régler les modèles et à les évaluer de façon fiable, sur des données plus récentes que celles de l'entraînement.
+Projet de groupe (4 étudiants) : analyse textuelle de 56 témoignages avec IRaMuTeQ.
 
+[IRaMuTeQ]{.pastille} [Analyse textuelle]{.pastille} [Collecte de données]{.pastille}
+
+![](images/nuage-de-mots.jpg){.photo fig-alt="Nuage de mots"}
+
+[Voir le détail →](jeune-intermittent.qmd){.lien .lien-carte}
 :::
-
-::: {.carte}
-
-### Développement R Shiny
-
-J'ai créé un [tableau de bord R Shiny]{.surligne} pour les soignants et un [prototype d'application mobile]{.surligne} pour les patients.
-
-:::
-
-::: {.carte}
-
-### Sécurité et RGPD
-
-Les soignants doivent [se connecter]{.surligne}, avec des droits différents selon leur rôle (administrateur, cadre ou soignant). L'écran affiché en salle d'attente ne montre [aucun nom de patient]{.surligne}.
-
-:::
-
-::: {.carte}
-
-### Déploiement
-
-Les calculs se lancent [automatiquement toutes les 10 minutes]{.surligne}. J'ai préparé l'installation sur un serveur interne et rédigé la documentation pour le service informatique.
-
-:::
-
-::: {.carte}
-
-### Travail avec le terrain
-
-J'ai échangé avec les [cadres des urgences des 3 hôpitaux]{.surligne} et avec le service informatique, pour vérifier les données et comprendre le fonctionnement des urgences.
-
-:::
-
-:::
-
-## Packages R utilisés
-
-::: {.paquets}
-
-::: {.paquet}
-
-`shinydashboard` [tableau de bord]{.description}
-
-:::
-
-::: {.paquet}
-
-`shinymanager` [authentification des professionnels, gestion des rôles]{.description}
-
-:::
-
-::: {.paquet}
-
-`shinyMobile` [application mobile pour les patients]{.description}
-
-:::
-
-::: {.paquet}
-
-`data.table` [jointures non équi, indicateurs de flux]{.description}
-
-:::
-
-::: {.paquet}
-
-`xgboost` [modèle de gradient boosting]{.description}
-
-:::
-
-::: {.paquet}
-
-`lightgbm` [modèle de gradient boosting]{.description}
-
-:::
-
-::: {.paquet}
-
-`ggplot2` [graphiques estimé contre réel]{.description}
-
-:::
-
-::: {.paquet}
-
-`RODBC` [connexion à la base Hopital Manager]{.description}
-
-:::
-
-:::
-
-## Le tableau de bord en images
-
-::: {.galerie .galerie-large}
-![Connexion des professionnels de santé : chaque utilisateur a son compte.](images/dashboard-connexion.png){.photo fig-alt="Page de connexion professionnelle du tableau de bord"}
-
-![Espace professionnel : suivi des patients en attente de triage et de médecin.](images/dashboard-espace-professionnel.png){.photo fig-alt="Espace professionnel de l'hôpital d'Hénin-Beaumont"}
-
-![Temps estimés et temps réels, avec la fourchette de prédiction, pour chaque étape du parcours.](images/dashboard-graphique.png){.photo fig-alt="Graphique des temps estimés et réels"}
-
-![Administration : gestion des comptes par établissement et par rôle.](images/dashboard-administration.png){.photo fig-alt="Page d'administration des comptes utilisateurs"}
-:::
-
-[Les noms, prénoms et numéros de séjour des patients, ainsi que les adresses e-mail, sont masqués.]{.discret}
-
-## L'application mobile pour les patients
-
-::: {.deux}
-
-![](images/connexion-patient.jpg){fig-alt="Connexion patient"}![](images/estimations-affichees-au-patient.jpg){fig-alt="Estimations affichées au patient"}
-
-:::
-
-::: {.discret}
-
-Prototype accessible par QR code : chaque patient ne voit que sa propre estimation.
-
 :::
