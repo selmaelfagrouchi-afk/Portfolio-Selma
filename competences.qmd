@@ -5,48 +5,81 @@ title-block-style: none
 
 # Compétences
 
+[Ce que je sais faire, avec les outils que j'ai utilisés en stage, en cours et en projet.]{.discret}
+
 ::: {.grille .competences}
 
-::: {.carte}
-
+::: carte
 ### Programmation
 
-[R]{.pastille}[SQL]{.pastille}[Python]{.pastille}
+[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Git / GitHub]{.pastille}
 
+Je travaille surtout avec [R]{.surligne} : analyses statistiques, graphiques (ggplot2), traitement de gros tableaux (data.table, dplyr) et applications [R Shiny]{.surligne}. J'écris des [requêtes SQL]{.surligne} pour extraire et relier des données hospitalières. En [Python]{.surligne}, j'ai créé un tableau de bord (Dash) et fait du web scraping. J'utilise [GitHub]{.surligne} pour publier mon travail, comme ce portfolio.
 :::
 
-::: {.carte}
+::: carte
+### Statistiques
 
-### Statistiques et machine learning
+[Tests statistiques]{.pastille} [Régression]{.pastille} [ACP]{.pastille} [Anova]{.pastille} [Séries temporelles]{.pastille}
 
-[Tests statistiques]{.pastille}[Régression]{.pastille}[ACP]{.pastille}[XGBoost]{.pastille}[LightGBM]{.pastille}[Textométrie (IRaMuTeQ)]{.pastille}
-
+Je sais choisir et appliquer des [tests statistiques]{.surligne}, des [régressions]{.surligne} (linéaire, logistique, Lasso), une [ACP]{.surligne}, une [Anova]{.surligne} et des [séries temporelles]{.surligne}. Dans mon mémoire, je travaille sur la météo et le nombre d'hospitalisations, avec des modèles GLM, GAM et DLNM prévus pour tenir compte des effets différés. Au programme de mon Master : statistique bayésienne, analyse de survie, données spatiales.
 :::
 
-::: {.carte}
+::: carte
+### Machine learning
 
+[Machine learning]{.pastille} [Arbres de décision]{.pastille} [XGBoost]{.pastille} [LightGBM]{.pastille} [Lasso]{.pastille}
+
+J'ai comparé [7 modèles]{.surligne} pour prédire les temps d'attente aux urgences, des moyennes jusqu'à [XGBoost et LightGBM]{.surligne}. J'ai appris à choisir les variables utiles, à régler les paramètres d'un modèle et à l'évaluer de façon fiable (MAE, RMSE, WAPE, R²), en séparant les données récentes de celles d'entraînement.
+:::
+
+::: carte
 ### Visualisation et applications
 
-[Power BI]{.pastille}[Excel]{.pastille}[Shiny]{.pastille}[Dash]{.pastille}[ggplot2]{.pastille}[plotly]{.pastille}
+[Power BI]{.pastille} [Excel]{.pastille} [R Shiny]{.pastille} [shinymanager]{.pastille} [shinyMobile]{.pastille} [Dash]{.pastille} [ggplot2]{.pastille}
 
+J'ai conçu un [tableau de bord R Shiny]{.surligne} pour les soignants, avec connexion sécurisée et rôles, et un prototype d'application mobile pour les patients. J'utilise aussi Power BI et Excel pour présenter des résultats.
 :::
 
-::: {.carte}
-
+::: carte
 ### Données de santé
 
-[Hopital Manager]{.pastille}[SNDS]{.pastille}
+[Hopital Manager]{.pastille} [SNDS]{.pastille} [Météo-France]{.pastille} [CRISP-DM]{.pastille} [RGPD]{.pastille}
 
+Je sais retrouver les bonnes tables dans une grande base hospitalière (environ 1 300 tables), [nettoyer les données]{.surligne}, repérer les valeurs aberrantes et construire des indicateurs. J'ai travaillé avec le logiciel Hopital Manager, et je prépare l'analyse des données du SNDS et de Météo-France. Je respecte le RGPD : aucun nom de patient n'est affiché publiquement.
 :::
 
-::: {.carte}
+::: carte
+### Analyse de texte et recherche
 
+[IRaMuTeQ]{.pastille} [Revue de littérature]{.pastille} [Rédaction scientifique]{.pastille}
+
+J'ai analysé [56 témoignages]{.surligne} avec IRaMuTeQ (nuage de mots, classification, graphe de similitude, analyse factorielle). Pour mon mémoire, j'ai parcouru une centaine d'articles scientifiques et retenu [19 études]{.surligne}, puis rédigé des rapports d'étape.
+:::
+
+::: carte
+### Qualité et sécurité des soins
+
+[Audit qualité]{.pastille} [Évaluation HAS]{.pastille} [Sécurité du patient]{.pastille} [Formation des professionnels]{.pastille}
+
+Lors de mes stages en qualité, j'ai préparé l'[évaluation externe de la HAS]{.surligne} d'un EHPAD (audits, formation des professionnels, mise à jour de protocoles) et participé à la semaine de la sécurité du patient dans un service pédiatrique.
+:::
+
+::: carte
+### Gestion de projet et communication
+
+[CRISP-DM]{.pastille} [Travail en équipe]{.pastille} [Documentation]{.pastille}
+
+J'ai mené un projet de bout en bout, [de l'extraction des données au déploiement]{.surligne}. J'ai échangé avec les cadres des urgences et le service informatique, rédigé la documentation et travaillé en groupe de 4 à 5 personnes.
+:::
+
+::: carte
 ### Langues
 
-[Anglais B2 (Cambridge)]{.pastille}[Allemand A2]{.pastille}
+[Anglais B2 (Cambridge)]{.pastille} [Allemand A2]{.pastille} [Anglais professionnel]{.pastille}
 
+Je lis et je rédige en anglais, notamment des articles scientifiques et des documents techniques.
 :::
-
 :::
 
 ## Certifications
