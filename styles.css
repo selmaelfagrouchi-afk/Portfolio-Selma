@@ -81,3 +81,9 @@ details{margin-top:10px;font-size:15px}summary{cursor:pointer;color:var(--ac-d);
 .enseignements h4{margin:14px 0 2px;font-size:14px;color:var(--ac-d);font-weight:600;font-family:system-ui,sans-serif}
 .enseignements p{margin:0;color:var(--mu);font-size:14px}
 .certif{display:flex;align-items:center;gap:14px}.certif figure{margin:0}.certif img{width:44px;height:44px}.certif p{margin:2px 0 0}
+
+/* ajouts novembre 2026 */
+.galerie-large{grid-template-columns:repeat(auto-fit,minmax(380px,1fr))}
+.galerie-large figure{margin:0}
+.cercle img{aspect-ratio:700/560}
+.competences .pastille{margin-bottom:6px}
