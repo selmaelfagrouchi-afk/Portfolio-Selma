@@ -179,6 +179,20 @@ J'ai échangé avec les [cadres des urgences des 3 hôpitaux]{.surligne} et avec
 
 :::
 
+## Le tableau de bord en images
+
+::: {.galerie .galerie-large}
+![Connexion des professionnels de santé : chaque utilisateur a son compte.](images/dashboard-connexion.png){.photo fig-alt="Page de connexion professionnelle du tableau de bord"}
+
+![Espace professionnel : suivi des patients en attente de triage et de médecin.](images/dashboard-espace-professionnel.png){.photo fig-alt="Espace professionnel de l'hôpital d'Hénin-Beaumont"}
+
+![Temps estimés et temps réels, avec la fourchette de prédiction, pour chaque étape du parcours.](images/dashboard-graphique.png){.photo fig-alt="Graphique des temps estimés et réels"}
+
+![Administration : gestion des comptes par établissement et par rôle.](images/dashboard-administration.png){.photo fig-alt="Page d'administration des comptes utilisateurs"}
+:::
+
+[Les noms, prénoms et numéros de séjour des patients, ainsi que les adresses e-mail, sont masqués.]{.discret}
+
 ## L'application mobile pour les patients
 
 ::: {.deux}
