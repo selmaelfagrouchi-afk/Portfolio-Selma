@@ -62,9 +62,9 @@ Préparation de l'évaluation externe HAS : suivi du plan d'action et entretiens
 
 [Entretiens]{.pastille} [Audit qualité]{.pastille} [Référentiel HAS]{.pastille} [AGEVAL]{.pastille}
 
-![](images/charte-bientraitance-ehpad.jpg){.photo fig-alt="Charte de la bientraitance réalisée pendant le stage"}
+![](images/qualite-audit-entretiens.png){.photo fig-alt="Illustration : liste de contrôle et bulles de dialogue"}
 
-[Voir le détail →](stages-qualite.qmd#ehpad-les-ogiers){.lien .lien-carte}
+[Voir le détail →](stage-ehpad.qmd){.lien .lien-carte}
 :::
 
 ::: {.carte}
@@ -104,8 +104,8 @@ Semaine de la sécurité du patient, audit sur le port du bracelet d'identificat
 
 [Audit PDCA]{.pastille} [Ishikawa]{.pastille} [Excel]{.pastille} [Sensibilisation]{.pastille}
 
-![](images/programme-semaine-securite-patient.jpg){.photo fig-alt="Programme de la Semaine de la sécurité des patients, novembre 2024"}
+![](images/qualite-cycle-pdca.png){.photo fig-alt="Illustration : cycle PDCA (Plan, Do, Check, Act)"}
 
-[Voir le détail →](stages-qualite.qmd#smr-marc-sautelet){.lien .lien-carte}
+[Voir le détail →](stage-smr.qmd){.lien .lien-carte}
 :::
 :::
