@@ -54,6 +54,20 @@ Projet de groupe (5 étudiants) : analyse des nutriments à partir d'Open Food F
 :::
 
 ::: {.carte}
+[Avril – juin 2025]{.date}
+
+### Stage Qualité : EHPAD Les Ogiers
+
+Préparation de l'évaluation externe HAS : suivi du plan d'action et entretiens de 130 questions menés avec les résidents sur plusieurs séances.
+
+[Entretiens]{.pastille} [Audit qualité]{.pastille} [Référentiel HAS]{.pastille} [AGEVAL]{.pastille}
+
+![](images/charte-bientraitance-ehpad.jpg){.photo fig-alt="Charte de la bientraitance réalisée pendant le stage"}
+
+[Voir le détail →](stages-qualite.qmd#ehpad-les-ogiers){.lien .lien-carte}
+:::
+
+::: {.carte}
 [2024 – 2025 · Projet de groupe]{.date}
 
 ### Le jeûne intermittent : témoignages sur les réseaux sociaux et littérature scientifique
@@ -79,5 +93,19 @@ Projet de groupe (4 étudiants) : analyse de la campagne « Ravages » de Santé
 ![](images/campagne-alcool.jpg){.photo fig-alt="Campagne Les ravages de l'alcool, Santé publique France, 2019"}
 
 [Voir le détail →](campagne-alcool.qmd){.lien .lien-carte}
+:::
+
+::: {.carte}
+[Octobre – décembre 2024]{.date}
+
+### Stage Qualité : SMR pédiatrique Marc Sautelet
+
+Semaine de la sécurité du patient, audit sur le port du bracelet d'identification (méthode PDCA) et refonte des cahiers de traçabilité.
+
+[Audit PDCA]{.pastille} [Ishikawa]{.pastille} [Excel]{.pastille} [Sensibilisation]{.pastille}
+
+![](images/programme-semaine-securite-patient.jpg){.photo fig-alt="Programme de la Semaine de la sécurité des patients, novembre 2024"}
+
+[Voir le détail →](stages-qualite.qmd#smr-marc-sautelet){.lien .lien-carte}
 :::
 :::
