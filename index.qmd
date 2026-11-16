@@ -34,7 +34,7 @@ Université de Lille · ILIS
 </details>
 :::
 
-[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Statistiques]{.pastille} [Power BI]{.pastille} [Excel]{.pastille} [R Shiny]{.pastille} [Git / GitHub]{.pastille} [Machine learning]{.pastille} [Tests statistiques]{.pastille} [Régression]{.pastille} [ACP]{.pastille} [Anova]{.pastille} [Séries temporelles]{.pastille} [Arbres de décision]{.pastille} [XGBoost]{.pastille} [LightGBM]{.pastille} [Web scraping]{.pastille} [Hopital Manager]{.pastille} [SNDS]{.pastille} [CRISP-DM]{.pastille} [Analyse textuelle]{.pastille} [Marketing Sociale]{.pastille}
+[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Statistiques]{.pastille} [Power BI]{.pastille} [Excel]{.pastille} [R Shiny]{.pastille} [Git / GitHub]{.pastille} [Machine learning]{.pastille} [Tests statistiques]{.pastille} [Régression]{.pastille} [ACP]{.pastille} [Anova]{.pastille} [Séries temporelles]{.pastille} [Arbres de décision]{.pastille} [XGBoost]{.pastille} [LightGBM]{.pastille} [Web scraping]{.pastille} [Hopital Manager]{.pastille} [SNDS]{.pastille} [CRISP-DM]{.pastille} [Analyse textuelle]{.pastille} [Marketing Sociale]{.pastille} [Démarche qualité]{.pastille}
 
 [Voir mes projets](projets.qmd){.bouton} [Télécharger mon CV](rapports/CV_Selma_El_Fagrouchi.pdf){.bouton .contour download=""} [Me contacter](contact.qmd){.bouton .contour}
 
@@ -52,6 +52,36 @@ Prédiction des temps d'attente aux urgences de 3 établissements, avec visualis
 ![](images/ecran-du-tableau-de-bord-affiche-en-salle-d-a.jpg){.photo fig-alt="Écran du tableau de bord affiché en salle d'attente"}
 
 [Voir le détail →](stage-ahnac.qmd){.lien .lien-carte}
+:::
+
+::: grille
+::: {.carte}
+[Avril – juin 2025 · 8 semaines]{.date}
+
+### Stage Qualité · EHPAD Les Ogiers
+
+Préparation de l'évaluation externe HAS : suivi du plan d'action et entretiens de 130 questions menés avec les résidents sur plusieurs séances.
+
+[Entretiens]{.pastille} [Audit qualité]{.pastille} [Référentiel HAS]{.pastille} [AGEVAL]{.pastille}
+
+![](images/charte-bientraitance-ehpad.jpg){.photo fig-alt="Charte de la bientraitance réalisée pendant le stage"}
+
+[Voir le détail →](stages-qualite.qmd#ehpad-les-ogiers){.lien .lien-carte}
+:::
+
+::: {.carte}
+[Octobre – décembre 2024]{.date}
+
+### Stage Qualité · SMR pédiatrique Marc Sautelet
+
+Semaine de la sécurité du patient, audit sur le port du bracelet d'identification (méthode PDCA) et refonte des cahiers de traçabilité.
+
+[Audit PDCA]{.pastille} [Ishikawa]{.pastille} [Excel]{.pastille} [Sensibilisation]{.pastille}
+
+![](images/programme-semaine-securite-patient.jpg){.photo fig-alt="Programme de la Semaine de la sécurité des patients, novembre 2024"}
+
+[Voir le détail →](stages-qualite.qmd#smr-marc-sautelet){.lien .lien-carte}
+:::
 :::
 
 ## Projets étudiants
