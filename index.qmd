@@ -34,7 +34,7 @@ Université de Lille · ILIS
 </details>
 :::
 
-[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Statistiques]{.pastille} [Power BI]{.pastille} [Excel]{.pastille} [R Shiny]{.pastille} [Git / GitHub]{.pastille} [Machine learning]{.pastille} [Tests statistiques]{.pastille} [Régression]{.pastille} [ACP]{.pastille} [Anova]{.pastille} [Séries temporelles]{.pastille} [Arbres de décision]{.pastille} [XGBoost]{.pastille} [LightGBM]{.pastille} [Web scraping]{.pastille} [Hopital Manager]{.pastille} [SNDS]{.pastille} [CRISP-DM]{.pastille} [Analyse textuelle]{.pastille}
+[R]{.pastille} [SQL]{.pastille} [Python]{.pastille} [Statistiques]{.pastille} [Power BI]{.pastille} [Excel]{.pastille} [R Shiny]{.pastille} [Git / GitHub]{.pastille} [Machine learning]{.pastille} [Tests statistiques]{.pastille} [Régression]{.pastille} [ACP]{.pastille} [Anova]{.pastille} [Séries temporelles]{.pastille} [Arbres de décision]{.pastille} [XGBoost]{.pastille} [LightGBM]{.pastille} [Web scraping]{.pastille} [Hopital Manager]{.pastille} [SNDS]{.pastille} [CRISP-DM]{.pastille} [Analyse textuelle]{.pastille} [Marketing Sociale]{.pastille}
 
 [Voir mes projets](projets.qmd){.bouton} [Télécharger mon CV](rapports/CV_Selma_El_Fagrouchi.pdf){.bouton .contour download=""} [Me contacter](contact.qmd){.bouton .contour}
 
