@@ -47,16 +47,19 @@ Avril – juin 2025
 
 ::: {.pastilles}
 
-[Audit]{.pastille}[Évaluation HAS]{.pastille}[Formation des professionnels]{.pastille}
+[Audit]{.pastille}[Évaluation HAS]{.pastille}[Entretiens]{.pastille}[Formation des professionnels]{.pastille}
 
 :::
 
 <details>
 <summary>Plus de détails</summary>
 
-- Préparation à l'évaluation externe de la HAS : audit, formation des professionnels, mise à jour de protocoles
+- Préparation à l'évaluation externe de la HAS : suivi du plan d'action, sensibilisation et formation des professionnels, élaboration de procédures
+- Audits exploratoires auprès des résidents : entretiens de 130 questions menés sur plusieurs séances
 
 </details>
+
+[Voir le détail →](stage-ehpad.qmd){.lien}
 
 :::
 
@@ -82,6 +85,8 @@ Oct. – déc. 2024
 - Semaine de la sécurité du patient, audit sur le port du bracelet d'identification
 
 </details>
+
+[Voir le détail →](stage-smr.qmd){.lien}
 
 :::
 
