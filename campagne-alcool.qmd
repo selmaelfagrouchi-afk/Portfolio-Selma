@@ -57,7 +57,7 @@ Nous avons imaginé une [application mobile de suivi de consommation]{.surligne}
 
 ## Compétences mobilisées
 
-[Recherche documentaire]{.pastille} [Analyse et synthèse]{.pastille} [Santé publique]{.pastille} [Prévention]{.pastille} [Analyse SWOT]{.pastille} [Rédaction]{.pastille} [Travail en équipe]{.pastille}
+[Recherche documentaire]{.pastille} [Analyse et synthèse]{.pastille} [Santé publique]{.pastille} [Prévention]{.pastille} [Analyse SWOT]{.pastille} [Rédaction]{.pastille} [Travail en équipe]{.pastille} [Marketing Social]{.pastille} 
 
 ## Livrable
 
