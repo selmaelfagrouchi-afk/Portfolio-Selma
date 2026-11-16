@@ -66,4 +66,18 @@ Projet de groupe (4 étudiants) : analyse textuelle de 56 témoignages avec IRaM
 
 [Voir le détail →](jeune-intermittent.qmd){.lien .lien-carte}
 :::
+
+::: {.carte}
+[2024 – 2025 · Projet de groupe]{.date}
+
+### Analyse d'une campagne de prévention contre les ravages de l'alcool
+
+Projet de groupe (4 étudiants) : analyse de la campagne « Ravages » de Santé publique France et propositions pour renforcer son impact.
+
+[Santé publique]{.pastille} [Prévention]{.pastille} [Analyse critique]{.pastille} [Analyse SWOT]{.pastille}
+
+![](images/campagne-alcool.jpg){.photo fig-alt="Campagne Les ravages de l'alcool, Santé publique France, 2019"}
+
+[Voir le détail →](campagne-alcool.qmd){.lien .lien-carte}
+:::
 :::
