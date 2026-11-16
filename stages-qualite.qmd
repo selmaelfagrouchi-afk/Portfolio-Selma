@@ -1,0 +1,69 @@
+---
+title: "Stages en qualité"
+---
+
+# Stages en gestion de la qualité
+
+Deux stages réalisés en Licence 3 Sciences sanitaires et sociales (parcours Santé publique et management des organisations de santé, Université de Lille, 2024-2025). Dans les deux cas, il s'agissait de préparer un établissement à une évaluation externe de la Haute Autorité de Santé (HAS) : collecter des données de terrain, les structurer, les analyser et en tirer des actions concrètes.
+
+---
+
+## EHPAD Les Ogiers (Croix) : préparation de l'évaluation HAS {#ehpad-les-ogiers}
+
+*Avril – juin 2025 · 8 semaines · tutrice : adjointe de direction en charge de la qualité*
+
+**Contexte.** EHPAD public de 90 places et d'une cinquantaine de professionnels, sans poste de responsable qualité à temps plein, en préparation de l'évaluation externe HAS prévue du 8 au 10 juillet 2025.
+
+### Ce que j'ai fait
+
+- **Suivi du plan d'action** dans le logiciel qualité AGEVAL : 8 actions principales, 29 sous-actions, 6 pilotes. En fin de stage : 10 sous-actions traitées, 14 en cours, 2 non traitées, 3 annulées.
+- **Audits exploratoires auprès des résidents** (voir ci-dessous).
+- **Sensibilisation des équipes** : 2 réunions du COPIL qualité, 2 temps d'échange en salle de transmission (environ 20 soignants touchés), 25 notes d'information individuelles, 30 carnets mémo plastifiés, un quiz Kahoot de 14 questions, une charte de la bientraitance, 60 accroche-portes « Ne pas déranger », des infographies (aidants, lanceur d'alerte).
+- **Gestion documentaire** : 265 documents qualité migrés du serveur interne vers AGEVAL (arborescence recréée à l'identique, mots-clés créés par fonction professionnelle pour faciliter la recherche), puis une vingtaine de documents complémentaires.
+
+### Focus : des entretiens de 130 questions avec les résidents
+
+Le chapitre « La personne » du référentiel HAS compte 29 critères, 61 éléments d'évaluation et **130 questions** (certaines conditionnelles, ce qui raccourcit un peu l'entretien). Les premiers entretiens ont montré que la durée prévue (30 à 45 minutes) était largement sous-estimée.
+
+Nous avons donc adapté la méthode :
+
+- **plusieurs séances par résident** (de 2 à 6, environ 1 heure en moyenne), plus longues et espacées ou plus courtes et fréquentes selon la préférence de chacun ;
+- **consentement recueilli** pour l'audit final, possibilité d'interrompre la séance à tout moment ;
+- **reformulation et simplification** des questions en cas de difficulté de compréhension, répétitions en cas de troubles auditifs ou d'élocution ;
+- **retranscription** de chaque entretien, puis **saisie manuelle** dans le module « Audit » d'AGEVAL et cotation selon les critères HAS.
+
+Au total, 6 résidents ont été rencontrés (5 sur l'intégralité de l'entretien), ainsi que 3 membres du Conseil de la vie sociale.
+
+**Résultat.** Forte satisfaction vis-à-vis des équipes, mais une information sur les droits rarement consultée (supports présents mais peu lus, voire égarés). Ce constat a été présenté au COPIL et a conduit à deux actions : chartes des droits et libertés miniatures dans chaque chambre et notes individuelles enrichies (personne de confiance, droit de vote, CVS, commissions).
+
+**Compétences mobilisées :** conduite d'entretiens, adaptation à des publics fragiles, rigueur dans le recueil et la saisie des données, restitution à un comité de pilotage, gestion de projet (diagramme de Gantt), outils AGEVAL, Canva, Kahoot, Excel.
+
+---
+
+## SMR pédiatrique Marc Sautelet (Villeneuve-d'Ascq) : démarche qualité {#smr-marc-sautelet}
+
+*Octobre – décembre 2024 · établissement APF France Handicap (64 lits en hospitalisation complète, 36 places en hospitalisation de jour)*
+
+**Contexte.** Établissement engagé dans la certification HAS de 2025, avec l'objectif d'atteindre le niveau « Haute qualité des soins ».
+
+### Ce que j'ai fait
+
+- **Semaine de la sécurité du patient (12-21 novembre 2024)** : organisation et animation de deux chambres des erreurs (12 erreurs en hospitalisation complète, 11 au plateau technique), d'un jeu de piste en hôpital de jour (9 affiches), d'un jeu de cocottes en papier, d'un chronomètre « événements indésirables » et d'un stand de friction des mains. **67 participants** sur une trentaine de séances. J'ai ensuite analysé les résultats sous Excel (taux d'identification par erreur) et réalisé le diaporama de restitution.
+- **Audit sur le port du bracelet d'identification**, mené selon le cycle PDCA : méthodologie, observation sur le terrain, calcul des taux de conformité, diagramme d'Ishikawa et 5 actions correctives.
+  - Hospitalisation complète : 29 enfants observés, **74 %** de conformité.
+  - Hospitalisation de jour : 12 enfants observés, **92 %** de conformité.
+  - Limite identifiée : faibles effectifs (créneaux d'observation peu adaptés), donc résultats à interpréter avec prudence.
+- **Cahiers de traçabilité du bio-nettoyage** : refonte de la grille (16 indicateurs adaptés au protocole), suivi des tâches sous Excel, impression et reliure de 99 cahiers pour 2025.
+- **Gestion documentaire** : étiquettes pour les poches de perfusion et les médicaments à risque, saisie des questionnaires de satisfaction sur l'hygiène (25 questionnaires).
+
+### Enseignements
+
+Plusieurs activités n'ont pas pu être déployées (quiz Kahoot, mots croisés) faute de temps pour faire valider les contenus par des pairs. Retour d'expérience : faire valider les questions avant la mise en forme et être plus réaliste sur le calendrier.
+
+**Compétences mobilisées :** audit (PDCA, Ishikawa), animation de sessions de sensibilisation, analyse de données de terrain, tableaux de suivi Excel, communication interne, Canva.
+
+---
+
+## Ce que ces deux stages m'ont apporté pour la data
+
+Dans les deux structures, j'ai travaillé sur la chaîne complète d'une donnée de santé : la collecter auprès de personnes, la saisir de façon fiable, la traiter (taux, pourcentages), la visualiser et la restituer à des décideurs non spécialistes. Ils m'ont aussi sensibilisée à la qualité du recueil (effectifs, biais d'échantillonnage, formulation des questions), un point que je retrouve aujourd'hui dans mes projets de data science en santé.
